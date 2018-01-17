@@ -1,0 +1,330 @@
+id,gun
+HPS_35,Handgun pistol semiauto
+RC_21,Rifle Carbine
+RBA_9,Rifle bolt action
+RF_75,Rifle fully automatic
+RF_54,Rifle fully automatic
+RF_71,Rifle fully automatic
+RF_58,Rifle fully automatic
+RF_82,Rifle fully automatic
+HPR_3,Handgun pistol revolver
+RC_18,Rifle Carbine
+HPS_28,Handgun pistol semiauto
+RBA_37,Rifle bolt action
+RF_89,Rifle fully automatic
+RBA_41,Rifle bolt action
+RF_55,Rifle fully automatic
+HPS_8,Handgun pistol semiauto
+RC_9,Rifle Carbine
+SP_18,Shotgun pump action
+RF_21,Rifle fully automatic
+RBA_38,Rifle bolt action
+RF_57,Rifle fully automatic
+RF_81,Rifle fully automatic
+SP_2,Shotgun pump action
+HPS_33,Handgun pistol semiauto
+RC_8,Rifle Carbine
+RF_32,Rifle fully automatic
+HPR_1,Handgun pistol revolver
+RF_47,Rifle fully automatic
+RC_19,Rifle Carbine
+RF_40,Rifle fully automatic
+RL_4,Rifle lever action
+RF_17,Rifle fully automatic
+HPS_13,Handgun pistol semiauto
+RF_10,Rifle fully automatic
+RBA_52,Rifle bolt action
+SB_1,Shotgun bolt action
+RF_48,Rifle fully automatic
+RBA_19,Rifle bolt action
+RC_2,Rifle Carbine
+SP_9,Shotgun pump action
+RF_24,Rifle fully automatic
+HPR_6,Handgun pistol revolver
+HPR_10,Handgun pistol revolver
+RF_39,Rifle fully automatic
+HPS_4,Handgun pistol semiauto
+RF_11,Rifle fully automatic
+RC_15,Rifle Carbine
+RF_52,Rifle fully automatic
+RBA_54,Rifle bolt action
+HPS_31,Handgun pistol semiauto
+RC_27,Rifle Carbine
+RBA_20,Rifle bolt action
+HPS_11,Handgun pistol semiauto
+HPR_17,Handgun pistol revolver
+RBA_46,Rifle bolt action
+HPS_26,Handgun pistol semiauto
+RF_9,Rifle fully automatic
+HPR_4,Handgun pistol revolver
+RC_34,Rifle Carbine
+HPS_54,Handgun pistol semiauto
+RBA_27,Rifle bolt action
+HPS_23,Handgun pistol semiauto
+HPS_55,Handgun pistol semiauto
+RF_29,Rifle fully automatic
+HPS_9,Handgun pistol semiauto
+RF_87,Rifle fully automatic
+RC_3,Rifle Carbine
+HPS_53,Handgun pistol semiauto
+SB_9,Shotgun bolt action
+RC_31,Rifle Carbine
+RBA_34,Rifle bolt action
+HPS_24,Handgun pistol semiauto
+RF_45,Rifle fully automatic
+HPR_2,Handgun pistol revolver
+RF_3,Rifle fully automatic
+RF_13,Rifle fully automatic
+SB_8,Shotgun bolt action
+RF_59,Rifle fully automatic
+RC_13,Rifle Carbine
+HPS_1,Handgun pistol semiauto
+HPS_12,Handgun pistol semiauto
+RF_65,Rifle fully automatic
+RF_83,Rifle fully automatic
+SP_30,Shotgun pump action
+RF_106,Rifle fully automatic
+RBA_53,Rifle bolt action
+RC_29,Rifle Carbine
+HPS_25,Handgun pistol semiauto
+HPS_19,Handgun pistol semiauto
+RBA_35,Rifle bolt action
+RF_41,Rifle fully automatic
+SB_3,Shotgun bolt action
+RBA_40,Rifle bolt action
+HPS_14,Handgun pistol semiauto
+RF_68,Rifle fully automatic
+RF_25,Rifle fully automatic
+SB_10,Shotgun bolt action
+RF_101,Rifle fully automatic
+RC_32,Rifle Carbine
+SP_13,Shotgun pump action
+RF_66,Rifle fully automatic
+RF_111,Rifle fully automatic
+SP_20,Shotgun pump action
+RF_91,Rifle fully automatic
+RF_102,Rifle fully automatic
+RBA_12,Rifle bolt action
+RC_1,Rifle Carbine
+HPR_8,Handgun pistol revolver
+RF_20,Rifle fully automatic
+RBA_5,Rifle bolt action
+SP_8,Shotgun pump action
+RF_5,Rifle fully automatic
+HPS_29,Handgun pistol semiauto
+RF_34,Rifle fully automatic
+RF_93,Rifle fully automatic
+RF_18,Rifle fully automatic
+RF_77,Rifle fully automatic
+RBA_13,Rifle bolt action
+HPR_14,Handgun pistol revolver
+RF_46,Rifle fully automatic
+RC_33,Rifle Carbine
+RF_6,Rifle fully automatic
+RF_72,Rifle fully automatic
+RBA_29,Rifle bolt action
+RF_103,Rifle fully automatic
+RC_12,Rifle Carbine
+RF_108,Rifle fully automatic
+RC_10,Rifle Carbine
+RF_110,Rifle fully automatic
+RBA_31,Rifle bolt action
+RBA_3,Rifle bolt action
+RF_22,Rifle fully automatic
+RF_30,Rifle fully automatic
+HPS_7,Handgun pistol semiauto
+RBA_10,Rifle bolt action
+SP_32,Shotgun pump action
+RF_27,Rifle fully automatic
+RBA_6,Rifle bolt action
+SP_14,Shotgun pump action
+RF_95,Rifle fully automatic
+RF_7,Rifle fully automatic
+SP_4,Shotgun pump action
+SB_5,Shotgun bolt action
+RC_5,Rifle Carbine
+RC_24,Rifle Carbine
+RC_26,Rifle Carbine
+HPS_39,Handgun pistol semiauto
+HPS_32,Handgun pistol semiauto
+RF_109,Rifle fully automatic
+RF_112,Rifle fully automatic
+SP_5,Shotgun pump action
+SP_11,Shotgun pump action
+HPS_43,Handgun pistol semiauto
+HPS_48,Handgun pistol semiauto
+RF_70,Rifle fully automatic
+RC_25,Rifle Carbine
+RF_86,Rifle fully automatic
+RF_37,Rifle fully automatic
+RF_53,Rifle fully automatic
+RL_8,Rifle lever action
+RF_42,Rifle fully automatic
+RL_7,Rifle lever action
+RBA_36,Rifle bolt action
+SP_21,Shotgun pump action
+RF_100,Rifle fully automatic
+HPS_51,Handgun pistol semiauto
+RF_96,Rifle fully automatic
+RF_44,Rifle fully automatic
+RF_63,Rifle fully automatic
+RBA_47,Rifle bolt action
+HPS_38,Handgun pistol semiauto
+RC_6,Rifle Carbine
+RF_60,Rifle fully automatic
+RBA_7,Rifle bolt action
+HPS_50,Handgun pistol semiauto
+HPS_57,Handgun pistol semiauto
+HPR_15,Handgun pistol revolver
+RC_30,Rifle Carbine
+HPS_40,Handgun pistol semiauto
+RF_1,Rifle fully automatic
+RF_26,Rifle fully automatic
+SB_6,Shotgun bolt action
+RF_97,Rifle fully automatic
+SP_26,Shotgun pump action
+RF_50,Rifle fully automatic
+RBA_16,Rifle bolt action
+HPR_16,Handgun pistol revolver
+SP_33,Shotgun pump action
+HPS_52,Handgun pistol semiauto
+RF_99,Rifle fully automatic
+HPS_2,Handgun pistol semiauto
+RF_12,Rifle fully automatic
+RF_31,Rifle fully automatic
+RF_61,Rifle fully automatic
+RF_105,Rifle fully automatic
+RF_62,Rifle fully automatic
+RBA_26,Rifle bolt action
+RF_107,Rifle fully automatic
+HPS_49,Handgun pistol semiauto
+RC_16,Rifle Carbine
+RBA_18,Rifle bolt action
+RBA_33,Rifle bolt action
+SP_31,Shotgun pump action
+HPS_44,Handgun pistol semiauto
+RBA_42,Rifle bolt action
+RBA_25,Rifle bolt action
+RF_74,Rifle fully automatic
+RF_88,Rifle fully automatic
+RC_23,Rifle Carbine
+HPS_41,Handgun pistol semiauto
+RBA_21,Rifle bolt action
+HPS_15,Handgun pistol semiauto
+SP_28,Shotgun pump action
+RF_76,Rifle fully automatic
+RF_14,Rifle fully automatic
+RF_49,Rifle fully automatic
+RF_90,Rifle fully automatic
+RC_14,Rifle Carbine
+RF_84,Rifle fully automatic
+SP_10,Shotgun pump action
+HPS_10,Handgun pistol semiauto
+RC_7,Rifle Carbine
+RBA_30,Rifle bolt action
+RC_4,Rifle Carbine
+SP_12,Shotgun pump action
+RBA_44,Rifle bolt action
+SP_16,Shotgun pump action
+HPR_7,Handgun pistol revolver
+RBA_51,Rifle bolt action
+HPS_21,Handgun pistol semiauto
+SP_3,Shotgun pump action
+RF_23,Rifle fully automatic
+RF_56,Rifle fully automatic
+SP_6,Shotgun pump action
+SP_1,Shotgun pump action
+RBA_23,Rifle bolt action
+RF_92,Rifle fully automatic
+RBA_28,Rifle bolt action
+SP_22,Shotgun pump action
+RF_16,Rifle fully automatic
+RF_15,Rifle fully automatic
+HPS_6,Handgun pistol semiauto
+RBA_2,Rifle bolt action
+RC_11,Rifle Carbine
+RF_36,Rifle fully automatic
+RF_94,Rifle fully automatic
+HPS_46,Handgun pistol semiauto
+RF_2,Rifle fully automatic
+RBA_48,Rifle bolt action
+RBA_17,Rifle bolt action
+HPS_36,Handgun pistol semiauto
+HPS_27,Handgun pistol semiauto
+HPS_42,Handgun pistol semiauto
+HPS_45,Handgun pistol semiauto
+RF_73,Rifle fully automatic
+RL_5,Rifle lever action
+RF_104,Rifle fully automatic
+RC_28,Rifle Carbine
+RL_6,Rifle lever action
+HPS_18,Handgun pistol semiauto
+SP_7,Shotgun pump action
+SB_4,Shotgun bolt action
+HPS_30,Handgun pistol semiauto
+RL_3,Rifle lever action
+HPS_34,Handgun pistol semiauto
+SB_2,Shotgun bolt action
+SP_17,Shotgun pump action
+RC_22,Rifle Carbine
+RF_98,Rifle fully automatic
+RBA_22,Rifle bolt action
+RF_64,Rifle fully automatic
+SP_29,Shotgun pump action
+SP_25,Shotgun pump action
+RF_85,Rifle fully automatic
+RBA_4,Rifle bolt action
+SP_24,Shotgun pump action
+HPS_3,Handgun pistol semiauto
+HPS_5,Handgun pistol semiauto
+HPS_58,Handgun pistol semiauto
+HPR_12,Handgun pistol revolver
+SP_27,Shotgun pump action
+RBA_24,Rifle bolt action
+RBA_39,Rifle bolt action
+HPS_22,Handgun pistol semiauto
+RF_69,Rifle fully automatic
+RF_38,Rifle fully automatic
+RF_4,Rifle fully automatic
+RF_43,Rifle fully automatic
+RF_78,Rifle fully automatic
+RF_51,Rifle fully automatic
+RF_33,Rifle fully automatic
+RBA_43,Rifle bolt action
+HPS_16,Handgun pistol semiauto
+RF_8,Rifle fully automatic
+RBA_50,Rifle bolt action
+RF_79,Rifle fully automatic
+RBA_49,Rifle bolt action
+RF_67,Rifle fully automatic
+RF_80,Rifle fully automatic
+SB_7,Shotgun bolt action
+RL_2,Rifle lever action
+HPR_11,Handgun pistol revolver
+RBA_45,Rifle bolt action
+HPS_17,Handgun pistol semiauto
+RBA_15,Rifle bolt action
+RL_1,Rifle lever action
+HPS_59,Handgun pistol semiauto
+RBA_32,Rifle bolt action
+RF_19,Rifle fully automatic
+SP_23,Shotgun pump action
+HPR_5,Handgun pistol revolver
+RL_9,Rifle lever action
+RF_28,Rifle fully automatic
+RC_20,Rifle Carbine
+HPS_20,Handgun pistol semiauto
+RBA_8,Rifle bolt action
+RBA_14,Rifle bolt action
+SP_15,Shotgun pump action
+HPR_13,Handgun pistol revolver
+SP_19,Shotgun pump action
+RC_17,Rifle Carbine
+HPR_9,Handgun pistol revolver
+RC_35,Rifle Carbine
+HPS_56,Handgun pistol semiauto
+RBA_1,Rifle bolt action
+RBA_11,Rifle bolt action
+RF_35,Rifle fully automatic
+HPS_37,Handgun pistol semiauto
+HPS_47,Handgun pistol semiauto
