@@ -9,3 +9,5 @@ combat. However, in these situations, the personnel would still desire real-time
 
 
 The most common deep learning based approach for classification of sounds is to convert the audio file to an image, and then use a neural network to process the image. Many of the deep learning networks used for such classification are designed specifically for Spectrograms.
+
+**Librosa** library is used to convert the gunshots audio into Spectrogram.
