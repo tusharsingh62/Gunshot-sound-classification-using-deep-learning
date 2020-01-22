@@ -1,10 +1,14 @@
-
+import tensorflow as tf
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import cv2
+import pydot
 from tqdm import tqdm
 import random
+
 
 df = pd.read_csv('labels.csv')
 df.head()
@@ -19,7 +23,11 @@ width = 299
 X = np.zeros((n, width, width, 3), dtype=np.uint8)
 y = np.zeros((n, n_class), dtype=np.uint8)
 for i in tqdm(range(n)):
-    X[i] = cv2.resize(cv2.imread('train/%s.png' % df['id'][i]), (width, width))
+    #/ Users / danielochoa / Desktop / myplot.png
+    #X[i] = cv2.resize(cv2.imread('/Users/danielochoa/PycharmProjects/Gunshot-sound-classification-using-deep-learning/Gunshot_Spectrogram.png'), (width, width))
+    X[i] = cv2.resize(cv2.imread(
+        '/Users/danielochoa/Desktop/myplot.png'),
+                      (width, width))
     y[i][class_to_num[df['gun'][i]]] = 1
 
 
@@ -71,8 +79,8 @@ plt.ylabel('loss')
 plt.xlabel('epoch')
 
 plt.subplot(1, 2, 2)
-plt.plot(h.history['acc'])
-plt.plot(h.history['val_acc'])
-plt.legend(['acc', 'val_acc'])
-plt.ylabel('acc')
+plt.plot(h.history['accuracy'])
+plt.plot(h.history['val_accuracy'])
+plt.legend(['accuracy', 'val_accuracy'])
+plt.ylabel('accuracy')
 plt.xlabel('epoch')
