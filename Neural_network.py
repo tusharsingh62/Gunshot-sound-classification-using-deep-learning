@@ -57,6 +57,8 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 h = model.fit(features, y, batch_size=128, epochs=100, validation_split=0.1)
 
+model.save("my_model.h5")
+
 from IPython.display import SVG
 from keras.utils.vis_utils import model_to_dot
 
